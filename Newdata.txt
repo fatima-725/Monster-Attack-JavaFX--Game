@@ -1,0 +1,10 @@
+uzma,2060,6
+fatima,1400,5
+Amber,1640,7
+Snape,1865,8
+Dumbledore,4335,12
+Sara,1910,7
+Harry,2380,8
+Mcgonagall,630,4
+Fatima Tuz Zahra,2195,7
+abc,1145,3
